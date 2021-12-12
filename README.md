@@ -1,3 +1,1 @@
 # VScodeCppTemplate
-
-dd
